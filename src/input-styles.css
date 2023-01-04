@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+body {
+    background: #FFFFFF;
+    color: #1f1f1f;
+}
+
+.container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: underline;
+}
+
+p {
+    margin-bottom: 8px;
+}
